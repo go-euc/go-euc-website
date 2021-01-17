@@ -25,8 +25,8 @@ By default, LoadGen does not come with any standardized workloads and therefore 
 
 | Date       | Name            | Version  |
 | :--------: | :-------------: | :------: |
-| 04-20-2020 | KnowledgeWorker | [v2004.01](https://github.com/RyanBijkerk/go-euc-workloads/blob/master/KnowledgeWorker_v2004.1.lgs){:target="_blank"} | 
-| 05-01-2020 | KnowledgeWorker | [v2005.01](https://github.com/RyanBijkerk/go-euc-workloads/blob/master/KnowledgeWorker_v2005.1.lgs){:target="_blank"} |
+| 04-20-2020 | KnowledgeWorker | [v2004.01](https://github.com/GO-EUC/go-euc-workloads/blob/master/KnowledgeWorker_v2004.1.lgs){:target="_blank"} | 
+| 05-01-2020 | KnowledgeWorker | [v2005.01](https://github.com/GO-EUC/go-euc-workloads/blob/master/KnowledgeWorker_v2005.1.lgs){:target="_blank"} |
 
 This workload contains the following default applications:
 
