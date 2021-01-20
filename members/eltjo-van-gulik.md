@@ -5,7 +5,7 @@ comments: false
 ---
 {% assign author = site.authors['eltjo'] %}
 
-<img style="float: left; width: 250px; margin-right: 30px;" src="{{ site.url }}{{ author.picture | relative_url }}" alt="{{ author.display_name }}"> Citrix aficionado. 
+<img style="float: left; width: 250px; margin-right: 30px;" src="{{ site.url }}{{ author.picture | relative_url }}" alt="{{ author.display_name }}">
 Citrix aficionado. Wannabee PowerShell buff. Blogger. Father and husband. Social, a tad pedantic and suitably lazy. Citrix CTP, PTEC member and SME.
 
 Eltjo van Gulik is a Workspace Consultant and enthusiast from the rural North of Heerhugowaard where he lives with his wife and thirteen year old son. He holds multiple certifications from Citrix and Microsoft. Among the most recent are CC-XAD-CC, CCE-V, and MCSE: Cloud Platform and Infrastructure (Charter member). He has more than 20 years of experience in the field of End User Computing and Application and Desktop Delivery.
