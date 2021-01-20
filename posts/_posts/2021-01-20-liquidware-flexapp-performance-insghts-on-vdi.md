@@ -2,9 +2,9 @@
 layout: post
 title: "Liquidware FlexApp performance insights running on a VDI environment"
 hidden: true
-authors: [gerjon]
-categories: [ 'LiquidWare' ]
-tags: [ 'LiquidWare', 'FlexApp', 'Layering']
+authors: [gerjon, tom]
+categories: [ 'Liquidware' ]
+tags: [ 'Liquidware', 'FlexApp', 'Layering']
 image: assets/images/posts/032-liquidware-flexapp-performance-insghts-on-vdi/032-liquidware-flexapp-feature-image.png
 ---
 Application layering is a technique that is becoming widely used in, mostly, virtual desktop environments. This technique solves one of the big issues in desktop environments, which is how to deal with the changing application landscape. Application layering makes it possible to add applications to an already running desktop. This gives IT admins flexibility to only update applications and not the complete image of the desktop. It gives users the possibility to have applications accessible in their desktop environment without having to wait for IT the install these apps or redeploy the desktop.
