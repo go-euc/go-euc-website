@@ -119,6 +119,17 @@ authors:
     linkedin: https://www.linkedin.com/in/patrick-van-den-born-2b3567a/
     page: patrick-van-den-born
     description: "Patrick van den Born is an independent senior consultant and IT architect focussed on Citrix End User Computing, NVIDIA GRID Technology and cloud computing."
+  gerjon:
+    name: Gerjon 
+    display_name: Gerjon Kunst
+    company: RawWorks
+    title: Principal consultant
+    picture: 'assets/images/authors/gerjon.png'
+    web: https://www.gerjon.com
+    twitter: https://twitter.com/gkunst
+    linkedin: https://www.linkedin.com/in/gerjonkunst/
+    page: gerjon-kunst
+    description: "Gerjon Kunst is Principal Consultant at RawWorks in het Netherlands, focusing on future Workspace and Cloud."
 
 # Sponsors
 sponsors:
