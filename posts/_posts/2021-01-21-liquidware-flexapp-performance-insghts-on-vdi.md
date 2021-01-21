@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Liquidware FlexApp performance insights running on a VDI environment"
-hidden: true
+hidden: false
 authors: [gerjon, tom]
 categories: [ 'Liquidware' ]
 tags: [ 'Liquidware', 'FlexApp', 'Layering']
@@ -192,6 +192,10 @@ The data shows adding FlexApp to the VDI environment will, as stated by Liquidwa
 
 ## Conclusion
 Liquidware FlexApp provides the ability to deliver applications in a flexible matter. It can be used in various scenarios, including on-premises VDI or RDSH, to cloud workspaces and even physical desktops.
+
+> We continue to innovate and stay many steps ahead of the competition with our adaptive workspace management solutions regardless the platform u will use now or in the future.
+>
+> Liquidware
 
 Using FlexApp is a strategy that provides flexibility in your environment, but as this research shows, does require additional resources. There are multiple ways to package an application that will have an effect on the overall performance. Based on the results it is recommended to take this into account when implementing FlexApp in a virtual desktop environment.
 
