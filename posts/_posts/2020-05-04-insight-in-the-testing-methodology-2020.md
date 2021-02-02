@@ -48,7 +48,7 @@ All the websites used in the workload are offline available and provided using a
 
 | Date       | Name                       | Version  |
 | :--------: | :------------------------: | :------: |
-| 04-20-2020 | Content library            | v2004.01 | 
+| 04-20-2020 | Content library            | [v2004.01](https://1drv.ms/u/s!AhNjcTavBrn7sk7hEgKQBAffhqGy?e=35ajfV){:target="_blank"} | 
 | 04-20-2020 | Webserver Docker container | [v2004.01](https://hub.docker.com/r/goeuc/webserver){:target="_blank"} |
 
 A logon script is used to stage and prepare the LoadGen users. A network share is used that provides all the files that are available in the content library. When the user login, a personal local H drive is created and the random documents are copied from the share location to the H drive. A PST file is configured in Outlook simulating an offline mailbox.
